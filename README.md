@@ -1,7 +1,7 @@
 # tic-tac-toe
 
 x   | 0 |   
-    |   |
+    | x |
     |   |
 
-Sonali Move
+Shivam Move
