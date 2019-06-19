@@ -1,7 +1,7 @@
 # tic-tac-toe
 
-  x | 0 | x 
+  0 | 0 | 0 
     | x | 0
   0 |   | x
 
-you won!
+now I won :P
